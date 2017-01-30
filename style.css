@@ -9,7 +9,7 @@ html {
 }
 body {
   text-align: center;
-  font-size: 15px;
+  font-size: 18px;
   color: grey;
   width: 960px;
   background: #777;
@@ -19,35 +19,35 @@ header {
   background: #ebebeb; 	
   margin: 10px;
   padding: 10px;
-  border: 5px solid #777;
+  border: 0px solid #777;
   height: 40px;
 }
 header h1{
-  font-size: 15px;
+  font-size: 18px;
 }
 nav {
   background: #ebebeb; 	
   padding: 10px;
   margin: 10px;
-  border: 5px solid #777;
+  border: 0px solid #777;
   height: 40px;
 }
 nav h1 {
   color: grey;
-  font-size: 15px; 
+  font-size: 18px; 
 }
 section {
   background: #ebebeb;
   width: 495px;	
-  font-size: 15px;
+  font-size: 18px;
   padding: 10px;
   border: 5px solid #777;
   margin: 10px;
-  height: 300px;
+  height: 320px;
 }
 section h1 {
   color: grey;
-  font-size: 15px; 
+  font-size: 18px; 
 }
 .col1 {
   width: 495px;
@@ -70,36 +70,39 @@ article {
 }
 article h1 {
 	color: white;
-    font-size: 15px;
+    font-size: 18px;
 }
 article p {
 	background: #ebebeb;
 	color: grey;
-	font-size: 15px;
+	font-size: 18px;
 	height: 45px;
+	padding: 10px;
+    margin: 5px;
+    border-left: 5px solid #777;
+    border-right: 5px solid #777;
 }
 aside {
   background: #ebebeb;	
-  font-size: 15px;
+  font-size: 18px;
   padding: 10px;
   border: 5px solid #777;
   margin: 10px;
-  height: 300px;
-  width: 600px;
+  height: 320px;
 }
 aside h1 {
 	color = grey;
-	font-size: 15px;
+	font-size: 18px;
 }
 footer {
   clear: both;	
   background: #ebebeb; 	
   margin: 10px;
   padding: 10px;
-  border: 5px solid #777;
+  border: 0px solid #777;
   height: 40px;
 }
 footer h1 {
 	color: grey;
-    font-size: 15px;
+    font-size: 18px;
 }
